@@ -8,19 +8,18 @@
 
 html {
 	font-family: selectricroman, serif;
-	color: white ;
+	color: black ;
 	background-color: #45223E;
-	background: linear-gradient(135deg, #3C5CEE, #B41B5A, #D21E31);
+	background: linear-gradient(100deg, #D6BBBB, #A07171);
 }
 
 h1 {
 	font-family: selectricmono, monospace;
- color: #EF2865;
- background-color: black ;
+ color: #000000;
  text-align: center;
 }
 
-img {max-width: 50%;
+img {max-width: 70%;
 }
 
 body {
